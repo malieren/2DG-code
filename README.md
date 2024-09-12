@@ -1,6 +1,14 @@
 g-code 
 move and scale 
 G-code view
+
+
+
+
+
+
+
+
 ![2dgcode](https://github.com/user-attachments/assets/7654e196-c13f-49b6-8899-bdf2c0b07ca3)
 ![Screenshot_23](https://github.com/user-attachments/assets/4a8cb1e4-ade0-4319-98fb-ac01f91d52da)
 ![Screenshot_24](https://github.com/user-attachments/assets/4d4cefcb-8cde-4bd3-beec-ffd9e142e016)
